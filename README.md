@@ -1,1 +1,4 @@
-# arch-i3wm-emoji-fix
+# Emoji dont work. Install emoji font
+```bash
+sudo pacman -S noto-fonts-emoji
+```
