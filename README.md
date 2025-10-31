@@ -1,4 +1,4 @@
-# Emoji dont work. Install emoji font
+# Install emoji font
 ```bash
 sudo pacman -S noto-fonts-emoji
 ```
